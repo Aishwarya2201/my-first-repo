@@ -1,6 +1,6 @@
 hi
 
-Follow [this link](./)
+Follow [this link](./README.md)
 
 using local workflow is simple :
 
