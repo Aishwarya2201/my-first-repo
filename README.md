@@ -9,7 +9,7 @@ using local workflow is simple :
 *add the files to the staging area
 *commit to your changes
 
-using the remote workflow seems complicated, but is actuall easy:
+Using the remote workflow seems complicated, but is actuall easy:
 
 *add remote url as url
 *modify your project
